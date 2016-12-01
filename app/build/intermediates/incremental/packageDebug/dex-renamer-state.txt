@@ -1,0 +1,7 @@
+#Thu Dec 01 16:25:37 CET 2016
+base.0=C\:\\Users\\ALUMNEDAM\\AndroidStudioProjects\\android-basedatos-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64ee65b48a7bad0af4599c1e9625d36508553981
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ALUMNEDAM\\AndroidStudioProjects\\android-basedatos-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a0f25c086c245fcf2d5098d6394db681645d3cd1\\classes.dex
+base.1=C\:\\Users\\ALUMNEDAM\\AndroidStudioProjects\\android-basedatos-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a0f25c086c245fcf2d5098d6394db681645d3cd1
+file.0=C\:\\Users\\ALUMNEDAM\\AndroidStudioProjects\\android-basedatos-2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64ee65b48a7bad0af4599c1e9625d36508553981\\classes.dex

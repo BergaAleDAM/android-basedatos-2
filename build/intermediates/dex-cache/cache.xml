@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ALUMNEDAM\AndroidStudioProjects\android-basedatos-2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a3486f6cf7a795b4ef894ac4391ec0677672faf">
+        <dex dex="C:\Users\ALUMNEDAM\AndroidStudioProjects\android-basedatos-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a0f25c086c245fcf2d5098d6394db681645d3cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ALUMNEDAM\AndroidStudioProjects\android-basedatos-2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f663819775fbff054c2fc909de8d6ca3860596c3">
+        <dex dex="C:\Users\ALUMNEDAM\AndroidStudioProjects\android-basedatos-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_64ee65b48a7bad0af4599c1e9625d36508553981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ALUMNEDAM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\ALUMNEDAM\AndroidStudioProjects\android-basedatos-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_356b2b767e27263471b0b8c21e3bf1c5596381f2\classes.dex" />
+    </item>
+
+</items>
